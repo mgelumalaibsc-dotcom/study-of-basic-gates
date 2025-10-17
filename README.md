@@ -78,4 +78,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
+Hence the given truth table and logic gates have been verfied.
+
 
